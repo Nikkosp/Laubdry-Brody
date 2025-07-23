@@ -1,0 +1,117 @@
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.exe
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.deps.json
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.runtimeconfig.json
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.dll
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.pdb
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Form1.resources
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.GenerateResource.cache
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.GeneratedMSBuildEditorConfig.editorconfig
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfoInputs.cache
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfo.cs
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.CoreCompileInputs.cache
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.dll
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\refint\WinFormLaundry.dll
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.pdb
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.genruntimeconfig.cache
+D:\SemiBre\Tugassss\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\ref\WinFormLaundry.dll
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.exe
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.deps.json
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.runtimeconfig.json
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.dll
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.pdb
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Form1.resources
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.GenerateResource.cache
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfoInputs.cache
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfo.cs
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.CoreCompileInputs.cache
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.dll
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\refint\WinFormLaundry.dll
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.pdb
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.genruntimeconfig.cache
+C:\Users\verdh\Downloads\Apk Lond\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\ref\WinFormLaundry.dll
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.exe
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.deps.json
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.runtimeconfig.json
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.dll
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.pdb
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Form1.resources
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Properties.Resources.resources
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.GenerateResource.cache
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfoInputs.cache
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfo.cs
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.dll
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\refint\WinFormLaundry.dll
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.pdb
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.genruntimeconfig.cache
+D:\Visual Studio\Laundry\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\ref\WinFormLaundry.dll
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.exe
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.deps.json
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.runtimeconfig.json
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.dll
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.pdb
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Form1.resources
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Properties.Resources.resources
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.dll
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\refint\WinFormLaundry.dll
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.pdb
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\londri\WinFormLaundry\WinFormLaundry\WinFormLaundry\obj\Debug\net8.0-windows\ref\WinFormLaundry.dll
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.exe
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.deps.json
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.runtimeconfig.json
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.dll
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.pdb
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Form1.resources
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Properties.Resources.resources
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.GenerateResource.cache
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.GeneratedMSBuildEditorConfig.editorconfig
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfoInputs.cache
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfo.cs
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.CoreCompileInputs.cache
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.dll
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\refint\WinFormLaundry.dll
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.pdb
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.genruntimeconfig.cache
+D:\SemiBre\Viscode\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\ref\WinFormLaundry.dll
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.exe
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.deps.json
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.runtimeconfig.json
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.dll
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.pdb
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Form1.resources
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Properties.Resources.resources
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.GenerateResource.cache
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfoInputs.cache
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfo.cs
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.CoreCompileInputs.cache
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.dll
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\refint\WinFormLaundry.dll
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.pdb
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.genruntimeconfig.cache
+F:\Project UTS (Laundry Brody)-20250723T045257Z-1-001\Project UTS (Laundry Brody)\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\ref\WinFormLaundry.dll
+F:\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.exe
+F:\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.deps.json
+F:\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.runtimeconfig.json
+F:\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.dll
+F:\Project UTS (Laundry Brody)\WinFormLaundry\bin\Debug\net8.0-windows\WinFormLaundry.pdb
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Form1.resources
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.Properties.Resources.resources
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.GenerateResource.cache
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfoInputs.cache
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.AssemblyInfo.cs
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.csproj.CoreCompileInputs.cache
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.dll
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\refint\WinFormLaundry.dll
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.pdb
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\WinFormLaundry.genruntimeconfig.cache
+F:\Project UTS (Laundry Brody)\WinFormLaundry\obj\Debug\net8.0-windows\ref\WinFormLaundry.dll
